@@ -1,1 +1,1 @@
-mgmt config
+config mgmt
